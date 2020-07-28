@@ -1,0 +1,7 @@
+virtual/
+.env
+core/migrations/
+.vscode
+core/__pycache__/
+djecommerce/__pycache__/
+
