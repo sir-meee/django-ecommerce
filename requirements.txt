@@ -21,7 +21,7 @@ kombu==3.0.37
 mpesa-api==0.1.9
 oauthlib==3.0.1
 pep8==1.7.1
-Pillow==6.0.0
+Pillow==8.3.2
 psycopg2==2.8.6
 pycodestyle==2.5.0
 python-decouple==3.1
