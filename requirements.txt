@@ -3,7 +3,7 @@ anyjson==0.3.3
 autopep8==1.4.4
 billiard==3.3.0.23
 celery==3.1.26.post2
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 defusedxml==0.6.0
 dj-database-url==0.5.0
